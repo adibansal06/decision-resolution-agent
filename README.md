@@ -229,4 +229,4 @@ Thapar Institute of Engineering & Technology, Patiala
 
 ---
 
-*This README describes the current prototype. Update the repository URL, author details, and implementation notes if the project changes.*
+*This project is an academic proof-of-concept demonstrating an AI-driven, tool-based decision-making workflow for customer order resolution.*
